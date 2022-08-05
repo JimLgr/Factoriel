@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3f91633-d3c9-43f9-a811-66ec01b4cce4": {
+      "ProjectGuid": "d3f91633-d3c9-43f9-a811-66ec01b4cce4",
+      "DisplayName": "UsingFactoriel",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
